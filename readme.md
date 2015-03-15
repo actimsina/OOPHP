@@ -26,7 +26,7 @@ For this follow the steps shown in this [YouTube Video](https://www.youtube.com/
 
  Or,
 
- Install [Larvel Homestead](http://laravel.com/docs/4.2/homestead) for virtual PHP application development environment.
+ Install [Larvel Homestead](http://laravel.com/docs/5.0/homestead) for virtual PHP application development environment.
   This box consists of:
     - Ubuntu 14.04
     - PHP 5.6
